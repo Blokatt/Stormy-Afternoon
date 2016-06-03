@@ -1,4 +1,4 @@
-# Stormy-Afternoon
+# Stormy Afternoon
 A video playback demo for the PICO-8.
 
 The image convertor requires Python 3 and the Python Imaging Library to run.
