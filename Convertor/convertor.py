@@ -1,3 +1,7 @@
+# Written by Blokatt
+# 3.6.2016
+# blokatt.net
+
 from PIL import Image;
 from os import listdir, getcwd, remove;
 
